@@ -4,5 +4,4 @@ Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own l
 
 ===== Resources =====
 
-  * **[[ht:obs|Open Bible Stories (ht)]]**
-
+  * **[[:ht:obs|Open Bible Stories (ht)]]**
